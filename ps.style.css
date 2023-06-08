@@ -1,0 +1,12 @@
+body{background-color: midnightblue;
+    color: white;}
+form{display: flex;
+    justify-content: right;}
+button{font-size: 20px;}
+h1{font-size: 100px;
+    font-family:'Times New Roman', Times, serif}
+h2{font-size: 50px;}
+div{display: flex;
+    justify-content: space-evenly;
+    align-items: right;}
+a{color: aqua;}
